@@ -107,7 +107,7 @@ with open('student_numbers.txt', 'r') as f:
         except:
             subject_6 = ""
             subject_grade_6 = ""
-        print("INSERT INTO `2023年4月金太阳联考` (`姓名`, `考号`,`总分`, `subject_1`, `subject_1_grade`, `subject_2`, `subject_2_grade`, `subject_3`, "
+        print("INSERT INTO `2023年5月金太阳联考` (`姓名`, `考号`,`总分`, `subject_1`, `subject_1_grade`, `subject_2`, `subject_2_grade`, `subject_3`, "
               "`subject_3_grade`,"
               "`subject_4`, `subject_4_grade`,`subject_5`, `subject_5_grade`, `subject_6`, `subject_6_grade`,"
               "`赋分总分`) VALUES"
