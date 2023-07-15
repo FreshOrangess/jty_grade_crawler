@@ -44,10 +44,10 @@ wd = webdriver.浏览器名(service=Service('驱动程序名.exe'), options=opti
 你可以在你的浏览器中输入一段url，获取想要获取的学校学生考号，例如:
 
 ```
-https:/alipic.onlyets.cn/pic2t/jty/ScoreFile/1821/0/省/河北/市/保定市/县/涿州市/校/物探一分校/物理_原始分_物探一分校xlsx
+https:/alipic.onlyets.cn/pic2t/jty/ScoreFile/1821/0/省/河北/市/保定市/县/涿州市/校/物探一分校/物理_原始分_物探一分校.xlsx
 ```
 
-如果不行，可以尝试更换学校名称或科目，或修改1822后两位后(一般倒数第二位与年级有关)
+如果不行，可以尝试更换学校名称或科目，或修改1822
 
 ## 导入考号
 
